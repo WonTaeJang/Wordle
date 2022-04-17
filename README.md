@@ -1,2 +1,2 @@
 # Wordle
-wontaejang.github.io/wordle
+* 게임하러 가기: <https://wontaejang.github.io/wordle/>
