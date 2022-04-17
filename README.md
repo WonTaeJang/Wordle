@@ -1,2 +1,2 @@
 # Wordle
-wontaejang.github.io
+wontaejang.github.io/wordle
